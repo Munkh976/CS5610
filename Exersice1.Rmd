@@ -1,0 +1,34 @@
+---
+title: "Exercise1"
+author: "Munkh Banzragch"
+date: "2025-01-09"
+output: word_document
+---
+
+# This is Advanced R course first exercise. 
+
+For more details click ->  [Masters in Data Science](https://wmich.edu/statistics/datascience).
+
+### Picture Example
+**Western Michigan University Logo** ![WMICH Logo](https://files.wmich.edu/s3fs-public/styles/large/public/images/u171/2020/icons%20-%20VI%20web%20%283%29%20Logo%20brand.png?itok=dzZFwI7w)
+
+### Table example
+
+**Col1** | **Col2** | **Col3**
+------------- | -------------
+Cell 11 | Cell 12 | Cell 13
+Cell 21 | Cell 22 | Cell 23
+Cell 31 | Cell 32 | Cell 33
+
+
+### Dataframe example (code)
+```{r echo = TRUE}
+head(iris)
+dim(iris)
+```
+
+### Plots example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
