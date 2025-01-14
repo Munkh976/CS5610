@@ -21,14 +21,14 @@ Cell 21 | Cell 22 | Cell 23
 Cell 31 | Cell 32 | Cell 33
 
 
-### Dataframe example (code)
+### Dataframe example
 ```{r echo = TRUE}
 head(iris)
 dim(iris)
 ```
 
-### Plots example:
+### Plots example code and plot visualization:
 
-```{r pressure, echo=FALSE}
+```{r pressure, echo=TRUE}
 plot(pressure)
 ```
