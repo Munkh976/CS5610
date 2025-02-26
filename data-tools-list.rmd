@@ -1,0 +1,15 @@
+---
+title: "Data tools list"
+author: "Munkh Banzragch"
+date: "2025-02-26"
+output:
+  html_document:
+    df_print: paged
+---
+
+1. R Programming
+2. Python
+3. SAS
+4. Jupyter Notebook
+5. MS Excel
+6. Tableau
